@@ -1,0 +1,8 @@
+{
+    "title"    :    "%{baz}",
+    "url"    :    "http://ww.r.com",
+    "nest"    :    {
+                    "NestedKey":"nestedValue",
+                     "NestedKey2":"nestedValue2"
+                  }
+}
